@@ -25,6 +25,12 @@ a simple example::
 
 for more examples see: /examples folder
 
+Continuous Integration Status
+=============================
+
+https://travis-ci.org/iwschris/ezodf2.png
+
+
 Dependencies
 ============
 
