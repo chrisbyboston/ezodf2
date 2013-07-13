@@ -28,7 +28,7 @@ for more examples see: /examples folder
 Continuous Integration Status
 =============================
 
-https://travis-ci.org/iwschris/ezodf2.png
+[![Build Status](https://travis-ci.org/iwschris/ezodf2.png)](https://travis-ci.org/iwschris/ezodf2.png)
 
 
 Dependencies
