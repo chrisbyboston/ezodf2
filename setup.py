@@ -38,7 +38,7 @@ setup(
     author='Chris Reynolds',
     author_email='chris@britecore.com',
     description='A Python package to create/manipulate OpenDocumentFormat files.',
-    long_description=read('README.md')+read('CHANGES'),
+    long_description=read('README.md')+'\n'+read('CHANGES'),
     packages=['ezodf2'],
     platforms='OS Independent',
     requires=['lxml'],

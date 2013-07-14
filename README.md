@@ -54,7 +54,7 @@ or from source::
 Documentation
 =============
 
-http://packages.python.org/ezodf2
+http://github.com/iwschris/ezodf2 (for now, this will be changing soon.)
 
 send feedback to chris@britecore.com
 
