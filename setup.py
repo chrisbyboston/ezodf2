@@ -41,8 +41,7 @@ setup(
     long_description=read('README.md')+'\n'+read('CHANGES'),
     packages=['ezodf2'],
     platforms='OS Independent',
-    install_requires=['distribute'],
-    requires=['lxml'],
+    install_requires=['distribute', 'lxml'],
     keywords=['ODF', 'OpenDocumentFormat', 'OpenOffice', 'LibreOffice'],
     classifiers=[
     "Development Status :: 3 - Alpha",
