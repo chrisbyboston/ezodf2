@@ -2,6 +2,13 @@
 CHANGES
 =======
 
+Version 0.2.5 - July 2013
+
+  * Alpha version
+  * Updated setup.py requirements to use install_requires
+  * Added distribute as a requirement
+  * tested: on Ubuntu 12.10 and 13.04 with python 2.7, 3.2, and 3.3
+
 Version 0.2.4 - June 2012
 
   * Alpha version
