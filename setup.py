@@ -20,7 +20,11 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 import os
-from setuptools import setup
+
+try:
+    from setuptools import setup
+except ImportError:
+    from distutils.core import setup
 
 def read(fname):
     try:
@@ -30,7 +34,7 @@ def read(fname):
 
 setup(
     name='ezodf2',
-    version='0.2.8',
+    version='0.2.9',
     url='http://github.com/iwschris/ezodf2',
     license='GPLv3',
     author='Chris Reynolds',
@@ -40,8 +44,7 @@ setup(
     packages=['ezodf2'],
     include_package_data=True,
     platforms='OS Independent',
-    install_requires=['distribute',
-                      'lxml'],
+    install_requires=['lxml'],
     keywords=['ODF', 'OpenDocumentFormat', 'OpenOffice', 'LibreOffice'],
     classifiers=[
         "Development Status :: 3 - Alpha",

@@ -21,7 +21,7 @@
 from __future__ import unicode_literals, print_function, division
 __author__ = "mozman <mozman@gmx.at>"
 
-version = (0, 2, 8)
+version = (0, 2, 9)
 VERSION = '%d.%d.%d' % version
 
 from .document import opendoc, newdoc
