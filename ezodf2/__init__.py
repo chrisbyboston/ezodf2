@@ -4,7 +4,7 @@
 #          OpenDocumentFormat files.
 # Created: 27.12.2010
 # Copyright (C) 2010, Manfred Moitzi
-# License: GPLv3
+# License: MIT
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

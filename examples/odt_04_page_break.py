@@ -3,7 +3,7 @@
 # Purpose: 
 # Created: 10.04.12
 # Copyright (C) 2012, Manfred Moitzi
-# License: GPLv3
+# License: MIT
 
 import ezodf2
 from ezodf2.text import Paragraph, Heading
