@@ -42,7 +42,7 @@ def read(fname):
 
 setup(
     name='ezodf2',
-    version='0.2.9',
+    version='0.2.10',
     url='http://github.com/iwschris/ezodf2',
     license='MIT',
     author='Chris Reynolds',
